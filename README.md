@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/tiago-cristian-coser-207617356/" target="_blank"><img align="center" src="https://img.icons8.com/color/40/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>  
 <a href="https://x.com/criscoserr" target="_blank"><img align="center" src="https://img.icons8.com/color/40/000000/twitterx.png" alt="X" width="40" height="40"/></a>  
-<a href="mailto:cosertiago@gmail.com"><img align="center" src="https://img.icons8.com/color/40/000000/gmail.png" alt="Gmail" width="40" height="40"/></a>  
 </p>
 ---
 
