@@ -6,7 +6,7 @@
 ## Sobre Mim  
 ![Acadêmico](https://img.icons8.com/color/26/000000/student-male.png) **Acadêmico de Engenharia de Software 1/50**    
 ![Certificação](https://img.icons8.com/color/26/000000/certificate.png) **Certificação:** Python – Curso em Vídeo (Módulos 1 e 2 concluídos).  
-![Foguete](https://img.icons8.com/color/26/000000/rocket.png) **Objetivo:** **Me tornar uma pessoa, profissional e programador raro. (Guanabara Gustavo)**  
+![Foguete](https://img.icons8.com/color/26/000000/rocket.png) **Objetivo:** **Me tornar uma pessoa e profissional raro. (Guanabara Gustavo)**  
 
 ---
 
