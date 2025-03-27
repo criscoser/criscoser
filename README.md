@@ -44,8 +44,7 @@ I’m passionate about coding, solving real-world problems, and continuously gro
 ---
 
 ## GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcoser&show_icons=true&theme=default" alt="GitHub Stats" width="400"/>  
-  <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoser&layout=compact&theme=default" alt="Top Languages" width="300"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px; background: linear-gradient(135deg, #1a1a1a, #2b2b2b); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+  <img src="https://github-readme-stats.vercel.app/api?username=devcoser&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 420px; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcoser&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 320px; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </div>
