@@ -44,7 +44,10 @@ I’m passionate about coding, solving real-world problems, and continuously gro
 ---
 
 ## GitHub Stats  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px; background: linear-gradient(135deg, #1a1a1a, #2b2b2b); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
-  <img src="https://github-readme-stats.vercel.app/api?username=criscoser&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 420px; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscoser&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" style="max-width: 320px; border-radius: 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; padding: 20px; background: linear-gradient(135deg, #1a1a1a, #2b2b2b); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=criscoser&theme=dracula" alt="Profile Details" style="max-width: 600px; border-radius: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=criscoser&theme=dracula" alt="Repos per Language" style="max-width: 300px; border-radius: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=criscoser&theme=dracula" alt="Most Commit Language" style="max-width: 300px; border-radius: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=criscoser&theme=dracula" alt="Stats" style="max-width: 300px; border-radius: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=criscoser&theme=dracula" alt="Productive Time" style="max-width: 300px; border-radius: 10px;"/>
 </div>
