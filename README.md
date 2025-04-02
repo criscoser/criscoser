@@ -1,27 +1,13 @@
-# Alow, alow! Eu sou Cristian Coser! 🖐
+# Hey there, I'm Cristian Coser! 🖐
 
-- 🔥 Software Engineer em construção 
-- 🔭 Atualmente estou estudando no [Curso em Vídeo - Python](https://www.cursoemvideo.com/) (Módulos 1 e 2 concluídos)
-- 🔬 Em progresso: Módulo 3 de Python no Curso em Vídeo
-- 🎓 Estudante de Engenharia de Software
+- 🔥 Software Engineer in the making 
+- 🔭 Currently studying at [Curso em Vídeo - Python](https://www.cursoemvideo.com/) (Modules 1 and 2 completed)
+- 🔬 In progress: Module 3 of Python at Curso em Vídeo
 
-## 📚 Tecnologias que estou estudando
+## 📚 Technologies I'm Studying
 
-- Linguagens e Ferramentas:  
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |  
-<img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> |  
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> |  
-<img align="center" alt="Cibersegurança" src="https://img.shields.io/badge/Cibersegurança-000000?style=for-the-badge&logo=shield&logoColor=white"> |  
-<img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-
-## 🛠 Normalmente eu uso
-
-- **Versionamento:**  
-<img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">  
-<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-
-- **Ferramentas de Desenvolvimento:**  
-[![VS Code](https://img.shields.io/badge/-VS%20Code-2c2c32?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
+- Languages and Tools:  
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img align="center" alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white"> <img align="center" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 ## Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-cristian-coser-207617356/)  
