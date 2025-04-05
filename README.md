@@ -1,6 +1,6 @@
 # I'm Cristian Coser! 
 
-- 🔥 Software Engineer in the making 
+- 🔥 Software Engineer in the making [descomplica] (https://descomplica.com.br/faculdade/?utm_source=google&utm_medium=cpc&utm_campaign=psq-institucional-faculdade-ongoing-exata-brasil&utm_term=descomplica&utm_content=especifica-brasil&gad_source=1&gclid=Cj0KCQjwqcO_BhDaARIsACz62vOpctsFd8GFxX7kGolyNoiMr3IR0A0ioV4PBzwM9iFapBv80TuJ5FUaAl-mEALw_wcB)
 - 🔭 Currently studying at [Curso em Vídeo - Python](https://www.cursoemvideo.com/) (Modules 1 and 2 completed)
 - 🔬 In progress: Module 3 of Python at Curso em Vídeo
 
