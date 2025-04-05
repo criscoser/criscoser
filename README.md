@@ -1,6 +1,6 @@
 # I'm Cristian Coser! 
 
-🔥 Software Engineer in the making [descomplica](https://descomplica.com.br/faculdade/)
+🔥 Software Engineer in the making in college [descomplica](https://descomplica.com.br/faculdade/)
 - 🔭 Currently studying at [Curso em Vídeo - Python](https://www.cursoemvideo.com/) (Modules 1 and 2 completed)
 - 🔬 In progress: Module 3 of Python at Curso em Vídeo
 
