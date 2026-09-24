@@ -14,10 +14,11 @@
 
 ## ⚙️ GitHub Analytics
 
-<a href="https://github.com/criscoser" target="_blank">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscoser&layout=compact&theme=dracula" alt="Top Languages"/>  
-</a>  
-
-<a href="https://github.com/criscoser" target="_blank">  
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=criscoser&show_icons=true&theme=dracula" alt="Cristian's stats"/>  
-</a>
+<p align="center">
+  <a href="https://github.com/criscoser">
+    <img src="https://vercel.app" alt="Cristian's stats" height="150" />
+  </a>
+  <a href="https://github.com/criscoser">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscoser&layout=compact&theme=dracula" alt="Top Languages" height="150" />
+  </a>
+</p>
