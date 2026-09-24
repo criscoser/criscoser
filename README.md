@@ -7,42 +7,68 @@
 | |   | |_) | |\___ \ 
 | |___|  _ < | |___) |
  \____|_| \_\___|____/ 
-                      
 ```
 
-> **Software Engineering Student**
-> 🐍 Python Developer in Progress
-> 🛡️ Cybersecurity Learner
-> ⚡ Systems Programming Explorer
+```makefile
+[SYSTEM INFO]
+IDENT:       criscoser
+ROLE:        Software Engineering Student 🎓
+SUB_ROUTINE: Python Developer in Progress 🐍
+TARGET:      Cybersecurity Learner 🛡️
+MODULE:      Systems Programming Explorer ⚡
+```
 
 ---
 
-### 🛠️ root@criscoser:~# skills --list
 
-#### 💻 Languages
-<a href="https://mozilla.org" target="_blank" rel="noreferrer">
-  <img src="https://jsdelivr.net" alt="Python" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" alt="C" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" alt="C++" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" alt="Rust" width="45" height="45" style="margin-right: 10px;" />
-</a>
+### 🛡️ root@criscoser:~# nmap -sV -p- localhost --skills
 
-#### 🚀 Frameworks & Tools
-<a href="https://mozilla.org" target="_blank" rel="noreferrer">
-  <img src="https://jsdelivr.net" alt="Django" width="45" height="45" style="margin-right: 10px; filter: invert(1);" />
-  <img src="https://jsdelivr.net" alt="Flask" width="45" height="45" style="margin-right: 10px; filter: invert(1);" />
-  <img src="https://jsdelivr.net" alt="Git" width="45" height="45" style="margin-right: 10px;" />
-  <img src="https://jsdelivr.net" alt="Linux" width="45" height="45" style="margin-right: 10px;" />
-</a>
+```diff
+⚡ SCAN REPORT FOR CRISCOSER (TARGET SYSTEM LAB)
+[+] Host is up (0.0001s latency).
+
+PORT      STATE    SERVICE          VERSION/STACK
+22/tcp    OPEN     ssh              Linux Terminal Flow 🐧
+80/tcp    OPEN     http             Django & Flask Architecture 🦊 🧪
+443/tcp   OPEN     https            Secure Web Protocols 🔒
+9001/tcp  OPEN     reverse-shell    Python Automation & Scripting 🐍
+
+--- [ DETECTED CORE LANGUAGES ] ---
++ Python  ........................ [ Core / Exploit Dev / Automation ]
++ C       ........................ [ Memory Management / Low-Level ]
++ C++     ........................ [ Malware Analysis / Reverse Eng ]
++ Rust    ........................ [ Memory Safety / Secure Coding ]
+
+--- [ ARSENAL & TOOLKIT ] ---
++ Git     ........................ [ Version Control & Source Audit ]
++ Linux   ........................ [ Host OS / Bash Scripting / Core ]
+```
 
 ---
 
-### 📡 System Status & Motivation
+### 📡 root@criscoser:~# ./system_status.sh
 
-- **Current Status:** `LEARNING...` ⏳
-- **Core Directive:** *"I am an eternal learner."* 🧠
+```json
+{
+  "status": "LEARNING...",
+  "uptime": "eternal_learner",
+  "firewall": "ACTIVE",
+  "objectives": [
+    "Software Engineering Mastery",
+    "Offensive Security Tactics",
+    "Systems Programming Deep Dive"
+  ]
+}
+```
+
+---
+
+### 🔑 root@criscoser:~# motivation --read
+
+> "I am an eternal learner." 🧠
 
 ```bash
 \$ exit
-# Keep coding.
+logout
+# Keep coding. _
 ```
