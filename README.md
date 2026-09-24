@@ -15,10 +15,10 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/criscoser">
+  <a href="https://github.com">
     <img src="https://vercel.app" alt="Cristian's stats" height="150" />
   </a>
-  <a href="https://github.com/criscoser">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=criscoser&layout=compact&theme=dracula" alt="Top Languages" height="150" />
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Top Languages" height="150" />
   </a>
 </p>
