@@ -17,22 +17,23 @@
 
 ---
 
-### 📊 root@criscoser:~# git --metrics
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="175" />
-</p>
-
----
-
 ### 🛠️ root@criscoser:~# skills --list
 
 #### 💻 Languages
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="Rust" />
+<a href="https://mozilla.org" target="_blank" rel="noreferrer">
+  <img src="https://jsdelivr.net" alt="Python" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="C" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="C++" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="Rust" width="45" height="45" style="margin-right: 10px;" />
+</a>
 
 #### 🚀 Frameworks & Tools
-<img src="https://shields.io" alt="Django" /> <img src="https://shields.io" alt="Flask" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Linux" />
+<a href="https://mozilla.org" target="_blank" rel="noreferrer">
+  <img src="https://jsdelivr.net" alt="Django" width="45" height="45" style="margin-right: 10px; filter: invert(1);" />
+  <img src="https://jsdelivr.net" alt="Flask" width="45" height="45" style="margin-right: 10px; filter: invert(1);" />
+  <img src="https://jsdelivr.net" alt="Git" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="Linux" width="45" height="45" style="margin-right: 10px;" />
+</a>
 
 ---
 
