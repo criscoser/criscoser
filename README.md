@@ -1,72 +1,47 @@
+# 🖥️ root@criscoser:~# cat /etc/motd
 
+```text
+  ____ ____ ___ ____  
+ / ___|  _ \_ _/ ___| 
 
-## `> terminal`
+| |   | |_) | |\___ \ 
+| |___|  _ < | |___) |
+ \____|_| \_\___|____/ 
+                      
+```
 
-~~~bash
-$ whoami
-
-cristian-coser
-
-$ cat /etc/motd
-
-Software Engineering Student
-Python Developer in Progress
-Cybersecurity Learner
-Systems Programming Explorer
-
-$ skills --list
-
-Python
-C
-C++
-Rust
-Django
-Flask
-Git
-Linux
-Cybersecurity
-
-$ status
-
-LEARNING...
-
-$ motivation
-
-"I am an eternal learner."
-
-$ exit
-
-Keep coding.
-~~~
+> **Software Engineering Student**
+> 🐍 Python Developer in Progress
+> 🛡️ Cybersecurity Learner
+> ⚡ Systems Programming Explorer
 
 ---
 
-## `> final_message`
-
-~~~text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                  ALWAYS LEARNING.                            ║
-║                                                              ║
-║             BUILD • BREAK • LEARN • REBUILD                 ║
-║                                                              ║
-║                    ONE LINE AT A TIME.                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-~~~
+### 📊 root@criscoser:~# git --metrics
 
 <p align="center">
-
-### 🚀 Building. Breaking. Learning. Rebuilding.
-
-**One line of code at a time.**
-
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="175" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="175" />
 </p>
 
 ---
 
-<p align="center">
+### 🛠️ root@criscoser:~# skills --list
 
-⭐ Thanks for visiting my profile!
+#### 💻 Languages
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="C" /> <img src="https://shields.io" alt="C++" /> <img src="https://shields.io" alt="Rust" />
 
-</p>
+#### 🚀 Frameworks & Tools
+<img src="https://shields.io" alt="Django" /> <img src="https://shields.io" alt="Flask" /> <img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="Linux" />
+
+---
+
+### 📡 System Status & Motivation
+
+- **Current Status:** `LEARNING...` ⏳
+- **Core Directive:** *"I am an eternal learner."* 🧠
+
+```bash
+\$ exit
+# Keep coding.
+```
