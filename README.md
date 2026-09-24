@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:00ff41&height=160&section=header&text=criscoser&fontSize=42&fontColor=0d1117&fontAlignY=38&desc=root@criscoser:~%23&descAlignY=55&descSize=15&descColor=0d1117&animation=fadeIn" width="100%"/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Mechatronics+Engineering+Student+%F0%9F%A4%96;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+C%2FC%2B%2B+%7C+Rust;Building+%26+Breaking+Things+To+Understand+Them" alt="Typing SVG" />
+```
+root@criscoser:~#
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Mechatronics+Engineering+Student+%F0%9F%A4%96;Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;Python+%7C+C%2FC%2B%2B+%7C+Rust;Building+%26+Breaking+Things+To+Understand+Them" alt="Typing SVG" />
+
+<br>
 
 </div>
 
@@ -58,4 +64,8 @@ PORT      SERVICE          STACK
 
 > "I am an eternal learner." 🧠
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00d4ff&height=100&section=footer" width="100%"/>
+```bash
+$ exit
+logout
+```
+
